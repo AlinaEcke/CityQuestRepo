@@ -45,3 +45,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+output_log.txt
+log_*.txt
+CityQuest_OVR_Final/CityQuest_Data/output_log.txt
