@@ -1,0 +1,129 @@
+Desktop	1266x693 50Hz
+Date	6/27/2014
+BalanceBoard	FALSE
+StartTime	3:55 PM
+EndTime	3:58 PM
+Participant Code	1
+Session	session_sessio000.ses
+Gameplay	Navigation
+
+
+Target	Command	Type	Details	XYPos	TimeStamp	DeltaTime
+	Event	start	level_1	(3.498799; 43)	31.17323	0
+PostOffice	Event	search	target_1	(3.498799; 43)	33.69259	2.519361
+PostOffice	Action	forward	speed_1	(3.498799; 43)	34.65933	0.9667435
+PostOffice	Action	start lean	left	(4.269414; 43)	35.3964	0.7370644
+PostOffice	Action	stop lean	left	(5.853097; 43.82244)	36.52949	1.133091
+PostOffice	Action	start lean	left	(7.612125; 43.95003)	37.78553	1.256046
+PostOffice	Event	move_obs	obst_shoppincart	(9.138895; 44.73778)	38.84071	1.055172
+PostOffice	Action	stop lean	left	(9.235859; 44.79589)	38.94515	0.1044464
+PostOffice	Action	start lean	right	(13.29707; 44.91875)	41.84381	2.898659
+PostOffice	Event	passed_obs	obst_shoppincart	(13.5374; 44.85469)	41.98254	0.1387291
+PostOffice	Action	stop lean	right	(16.23868; 43.27593)	43.94621	1.963665
+PostOffice	Action	start lean	left	(20.03177; 43.1528)	46.65837	2.71217
+PostOffice	Action	stop lean	left	(20.59711; 43.37784)	47.07436	0.4159851
+PostOffice	Action	stop	intersection	(22.5182; 43.49506)	48.43133	1.356968
+PostOffice	Action	turn	right	(22.71334; 43.49507)	48.9413	0.5099678
+PostOffice	Action	start lean	right	(22.71497; 43.49507)	48.98282	0.04152679
+PostOffice	Action	stop lean	right	(22.72736; 43.48811)	49.01697	0.03414917
+PostOffice	Action	start lean	left	(24.18189; 42.35165)	50.50912	1.492153
+PostOffice	Action	stop lean	left	(25.22488; 40.70552)	51.73238	1.223255
+PostOffice	Action	start lean	left	(25.34132; 39.07937)	52.89738	1.165001
+PostOffice	Event	move_obs	obst_rolling	(25.46533; 38.70843)	53.12664	0.2292633
+PostOffice	Action	stop lean	left	(25.64226; 38.38566)	53.39045	0.2638092
+PostOffice	Action	start lean	right	(25.73314; 38.05024)	53.62914	0.2386856
+PostOffice	Action	stop lean	right	(24.27587; 35.38372)	55.53519	1.906052
+PostOffice	Event	passed_obs	obst_rolling	(24.15365; 33.48726)	56.85581	1.320618
+PostOffice	Action	stop	intersection	(24.15363; 29.46787)	59.75634	2.900536
+PostOffice	Action	turn	right	(24.15363; 29.29567)	60.15663	0.4002876
+PostOffice	Action	start lean	right	(24.15363; 29.29332)	60.18999	0.03335953
+PostOffice	Action	stop lean	right	(24.1377; 29.26605)	60.26211	0.07212067
+PostOffice	Action	start lean	left	(23.57201; 28.30987)	61.1466	0.884491
+PostOffice	Action	stop lean	left	(22.51324; 27.30061)	62.08204	0.9354324
+PostOffice	Action	start lean	left	(15.94753; 27.18387)	66.77106	4.689022
+PostOffice	Action	stop lean	left	(15.67187; 27.10313)	66.96847	0.1974106
+PostOffice	Event	move_obs	obst_shoppincart	(15.21466; 27.02843)	67.26286	0.2943954
+PostOffice	Action	start lean	left	(15.21466; 27.02843)	67.29699	0.03412628
+PostOffice	Action	backward	stop	(14.75391; 26.84711)	67.62258	0.325592
+PostOffice	Action	forward	speed_1	(14.51824; 26.71842)	69.03899	1.416405
+PostOffice	Action	stop lean	left	(14.51824; 26.71842)	69.07327	0.0342865
+PostOffice	Action	start lean	left	(14.47036; 26.71841)	69.17337	0.1000977
+PostOffice	Action	stop lean	left	(12.26031; 25.44636)	70.82475	1.651382
+PostOffice	Event	passed_obs	obst_shoppincart	(11.46908; 25.33193)	71.35763	0.5328751
+PostOffice	Action	start lean	right	(9.50339; 25.32873)	72.79427	1.436646
+PostOffice	Action	stop lean	right	(6.392404; 27.07976)	75.01797	2.223694
+PostOffice	Action	stop	intersection	(2.474699; 27.19089)	77.81238	2.794411
+PostOffice	Action	turn	left	(2.291286; 27.19089)	79.65919	1.846809
+PostOffice	Action	start lean	left	(2.291286; 27.19089)	79.69424	0.03505707
+PostOffice	Action	stop lean	left	(2.267915; 27.17562)	79.756	0.06175232
+PostOffice	Action	start lean	right	(0.6529512; 22.53123)	83.7399	3.983902
+PostOffice	Action	stop lean	right	(-1.27171; 19.13555)	86.1657	2.425797
+PostOffice	Event	move_obs	obst_shoppincart	(-1.384807; 17.44335)	87.34208	1.176384
+PostOffice	Action	start lean	right	(-1.384837; 15.7181)	88.61144	1.269363
+PostOffice	Action	stop lean	right	(-1.888317; 14.34743)	89.58932	0.9778824
+PostOffice	Event	passed_obs	obst_shoppincart	(-1.929117; 13.46548)	90.18571	0.5963821
+PostOffice	Action	stop	intersection	(-1.9298; 4.476079)	96.64043	6.454727
+PostOffice	Action	turn	left	(-1.9298; 4.281476)	97.43955	0.799118
+PostOffice	Action	start lean	left	(-1.9298; 4.281285)	97.47704	0.03749084
+PostOffice	Action	stop lean	left	(-1.912961; 4.256301)	97.5426	0.06555939
+PostOffice	Action	forward	speed_2	(3.548492; 3.186352)	101.8985	4.355919
+PostOffice	Action	start lean	right	(4.988264; 3.186352)	102.26	0.3614349
+PostOffice	Event	move_obs	obst_rolling	(9.39555; 1.001441)	102.9735	0.7135773
+PostOffice	Action	stop lean	right	(9.39555; 1.001441)	103.006	0.03242493
+PostOffice	Event	passed_obs	obst_rolling	(13.5397; 0.5058789)	103.6638	0.6578293
+PostOffice	Action	backward	speed_1	(16.33287; 0.500107)	104.1643	0.500473
+PostOffice	Action	stop	intersection	(22.52; 0.4997865)	108.0013	3.837029
+PostOffice	Action	turn	left	(22.71596; 0.4997865)	108.9328	0.9315262
+PostOffice	Action	start lean	left	(22.71606; 0.4997865)	108.97	0.03720093
+PostOffice	Action	stop lean	left	(22.74062; 0.5163222)	109.0387	0.06869507
+PostOffice	Action	forward	speed_2	(23.86917; 6.607521)	113.8675	4.828835
+PostOffice	Action	start lean	right	(23.86917; 9.147901)	114.4257	0.5581512
+PostOffice	Action	stop lean	right	(23.93559; 9.548065)	114.5043	0.0786438
+PostOffice	Event	move_obs	obst_rolling	(24.09516; 11.26844)	114.7507	0.2463837
+PostOffice	Action	start lean	right	(24.11415; 12.07887)	114.9225	0.1717529
+PostOffice	Action	stop lean	right	(25.13308; 14.57385)	115.3375	0.4150391
+PostOffice	Event	passed_obs	obst_rolling	(25.45602; 15.61646)	115.4761	0.1385422
+PostOffice	Action	backward	speed_1	(25.61384; 18.43761)	115.9785	0.5024338
+PostOffice	Action	stop	intersection	(25.62274; 24.53513)	119.741	3.762497
+PostOffice	Action	turn	straight	(25.62274; 24.7386)	120.5193	0.7783127
+PostOffice	Action	start lean	left	(25.62274; 29.91723)	124.4011	3.881767
+PostOffice	Event	move_obs	obst_rolling	(25.31323; 30.62979)	124.8754	0.4743271
+PostOffice	Action	stop lean	left	(25.2005; 30.82268)	125.0469	0.1715393
+PostOffice	Action	forward	speed_2	(25.14399; 30.96682)	125.1552	0.1082916
+PostOffice	Action	start lean	right	(25.07879; 33.83055)	125.7689	0.6136627
+PostOffice	Action	stop lean	right	(25.20504; 34.45635)	125.8748	0.1059265
+PostOffice	Action	backward	speed_1	(25.36766; 35.49545)	126.0484	0.1735687
+PostOffice	Event	passed_obs	obst_rolling	(25.38374; 35.69796)	126.0484	0
+PostOffice	Action	start lean	right	(25.44646; 36.82598)	126.4555	0.407135
+PostOffice	Action	stop lean	right	(25.97825; 37.96707)	127.2227	0.7671967
+PostOffice	Action	stop	intersection	(26.09469; 39.53756)	128.3454	1.122711
+PostOffice	Action	turn	right	(26.09476; 39.73592)	129.7574	1.412018
+PostOffice	Action	start lean	right	(26.09476; 39.73592)	129.7958	0.0383606
+PostOffice	Action	stop lean	right	(26.12639; 39.78222)	129.8968	0.1009827
+PostOffice	Event	move_obs	obst_garbageBin	(29.91339; 41.34255)	133.1822	3.285385
+PostOffice	Action	backward	stop	(30.60715; 41.34255)	133.712	0.5298309
+PostOffice	Action	backward	180	(30.85793; 41.34255)	155.9178	22.20578
+PostOffice	Action	forward	speed_1	(30.86033; 41.34255)	158.7702	2.852463
+PostOffice	Action	start lean	right	(30.7548; 41.34255)	158.9766	0.2063446
+PostOffice	Action	stop lean	right	(29.4539; 42.04342)	159.9556	0.9789886
+PostOffice	Action	stop	intersection	(29.4539; 42.04342)	159.9556	0
+PostOffice	Action	backward	180	(29.25355; 42.14063)	160.6549	0.6993408
+PostOffice	Action	forward	speed_1	(29.26013; 42.15269)	163.002	2.347061
+PostOffice	Action	start lean	left	(29.30604; 42.15269)	163.1392	0.1372528
+PostOffice	Event	move_obs	obst_garbageBin	(31.04403; 43.1368)	164.4223	1.283051
+PostOffice	Action	stop lean	left	(33.79882; 44.78966)	166.4245	2.002243
+PostOffice	Action	start lean	right	(34.79083; 44.90936)	167.1311	0.7065582
+PostOffice	Event	passed_obs	obst_garbageBin	(35.52172; 44.58762)	167.6205	0.4894257
+PostOffice	Action	stop lean	right	(37.30547; 43.52147)	168.9281	1.307602
+PostOffice	Action	stop	intersection	(39.53412; 43.40199)	170.5198	1.59166
+
+
+Summary
+Target	Actual distance	Manhattan distance	Time Elapsed	Stars	Obstacle Passed	Obstacle Hit	Pedestrian Hit	Level
+
+
+Map Info
+Intersections	(0,0)(26,0)(42,0)(57,0)(72,0)(0,27)(26,27)(42,27)(57,27)(72,27)(0,43)(26,43)(42,43)(57,43)(72,43)(0,61)(26,61)(42,61)(57,61)(72,61)
+Targets	
+
+

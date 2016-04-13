@@ -1,0 +1,24 @@
+Desktop	1331x693 50Hz
+Date	6/25/2014
+BalanceBoard	FALSE
+StartTime	6:30 PM
+EndTime	6:31 PM
+Participant Code	1
+Session	session_OVR.ses
+Gameplay	Navigation
+
+
+Target	Command	Type	Details	XYPos	TimeStamp	DeltaTime
+	Event	start	level_1	(54; 37.5012)	15.15862	0
+Minimarket	Event	search	target_1	(54; 37.5012)	17.66133	2.502715
+
+
+Summary
+Target	Actual distance	Manhattan distance	Time Elapsed	Stars	Obstacle Passed	Obstacle Hit	Pedestrian Hit	Level
+
+
+Map Info
+Intersections	(0,0)(17,0)(54,0)(0,16)(17,16)(54,16)(0,41)(17,41)(54,41)
+Targets	
+
+

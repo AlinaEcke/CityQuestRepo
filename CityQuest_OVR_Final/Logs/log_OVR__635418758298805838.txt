@@ -1,0 +1,28 @@
+Desktop	1280x720 50Hz
+Date	7/25/2014
+BalanceBoard	TRUE
+StartTime	11:03 AM
+EndTime	11:05 AM
+Participant Code	OVR
+Session	scene_definition.xml
+Gameplay	ObstacleAvoidance
+
+
+Target	Command	Type	Details	XYPos	TimeStamp	DeltaTime
+	Event	start	level_1	(32; 2.9988)	18.64858	0
+	Action	backward	180	(32; 2.9988)	32.85029	14.20171
+	Action	backward	180	(32; 3.0012)	40.79148	7.941189
+	Action	forward	speed_1	(32; 2.9988)	53.21756	12.42608
+	Event	hit_obs	obs_bike	(32; 6.49155)	55.8144	2.59684
+	Action	stop	intersection	(32; 12.53579)	60.15235	4.337952
+
+
+Summary
+Bonus Taken	Level Time	Obstacle Passed	Obstacle Hit	Pedestrian Hit	Level
+
+
+Map Info
+Intersections	(0,0)(15,0)(32,0)(59,0)(94,0)(0,17)(15,17)(32,17)(59,17)(94,17)(0,55)(15,55)(32,55)(59,55)(94,55)(0,82)(15,82)(32,82)(59,82)(94,82)
+Targets	(18.69318,53.45969)(0.9161072,3.424138)(22.79172,83.66671)(58.53756,48.2779)(94.92747,68.77419)(58.53756,48.2779)(0.9161072,3.424138)(94.92747,68.77419)(22.79172,83.66671)(18.69318,53.45969)(0.9161072,3.424138)(58.53756,48.2779)(94.92747,68.77419)(18.69318,53.45969)(22.79172,83.66671)
+
+

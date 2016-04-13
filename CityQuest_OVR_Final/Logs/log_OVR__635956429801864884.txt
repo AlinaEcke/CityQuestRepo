@@ -1,0 +1,249 @@
+Desktop	1366x768 50Hz
+Date	4/7/2016
+BalanceBoard	FALSE
+StartTime	5:22 PM
+EndTime	5:26 PM
+Participant Code	OVR
+Session	scene_definition.xml
+Gameplay	ObstacleAvoidance
+
+
+Target	Command	Type	Details	XYPos	TimeStamp	DeltaTime
+	Event	start	level_1	(50; 3.4988)	5.509037	0
+	Action	backward	180	(50; 3.4988)	19.90294	14.39391
+	Action	forward	speed_1	(50; 3.5012)	23.28898	3.38604
+	Action	stop	intersection	(50; 2.480852)	24.10595	0.816967
+	Action	turn	left	(50; 2.378952)	24.52288	0.4169312
+	Event	gem_collected	2	(50; 2.378952)	24.52288	0
+	Action	start lean	left	(50; 2.378853)	24.53978	0.01689529
+	Action	stop lean	left	(50.05879; 2.296102)	24.65616	0.1163883
+	Event	hit_ped	PedestrianCollider	(56.12805; 1.123406)	29.39162	4.735456
+	Action	start lean	right	(57.78572; 1.123406)	30.59276	1.201138
+	Action	stop lean	right	(57.99413; 1.048688)	30.74145	0.1486931
+	Action	start lean	right	(58.67181; 0.9977897)	31.22587	0.484417
+	Action	stop lean	right	(58.88187; 0.922471)	31.3756	0.1497345
+	Action	start lean	right	(59.16175; 0.8753642)	31.57561	0.2000084
+	Action	stop lean	right	(59.34933; 0.8084544)	31.70965	0.134037
+	Action	start lean	right	(59.60557; 0.7639666)	31.89262	0.182972
+	Action	stop lean	right	(59.72316; 0.7294182)	31.97582	0.08319855
+	Action	forward	speed_2	(60.39926; 0.6890962)	32.45947	0.483654
+	Action	start lean	right	(61.18557; 0.6890044)	32.87949	0.4200211
+	Action	stop lean	right	(61.51937; 0.5638641)	33.0466	0.1671104
+	Action	start lean	right	(61.91934; 0.4948749)	33.24652	0.1999168
+	Action	stop lean	right	(62.11937; 0.4318804)	33.34657	0.1000481
+	Action	start lean	right	(62.35339; 0.3831303)	33.46359	0.1170235
+	Action	stop lean	right	(62.51933; 0.329656)	33.54657	0.08297348
+	Action	stop	intersection	(62.51933; 0.329656)	33.54657	0
+	Action	turn	straight	(62.66608; 0.2790067)	34.24661	0.7000465
+	Event	gem_collected	5	(62.66608; 0.2790067)	34.24661	0
+	Event	passed_obs	obs_bike	(75.53336; 0.2789972)	40.75168	6.50507
+	Action	stop	intersection	(79.5012; 0.2789964)	42.75259	2.000912
+	Action	turn	left	(79.64351; 0.2789964)	43.55262	0.8000259
+	Event	gem_collected	5	(79.64351; 0.2789964)	43.55262	0
+	Action	start lean	left	(79.64351; 0.2789964)	43.5696	0.0169754
+	Action	stop lean	left	(79.77978; 0.3872256)	43.7028	0.1332054
+	Action	start lean	left	(80.47929; 0.9091756)	44.1524	0.4496002
+	Action	stop lean	left	(80.48209; 1.558467)	44.45307	0.3006706
+	Action	start lean	left	(80.42907; 3.668768)	45.50459	1.051514
+	Action	stop lean	left	(80.33844; 3.934641)	45.63766	0.1330757
+	Action	start lean	left	(80.26917; 4.968699)	46.15608	0.5184212
+	Action	stop lean	left	(80.14373; 5.302833)	46.32147	0.1653862
+	Action	start lean	right	(80.07022; 6.136825)	46.73875	0.4172859
+	Action	stop lean	right	(80.12892; 6.336718)	46.83839	0.09963608
+	Action	start lean	right	(80.17838; 6.602517)	46.97252	0.1341248
+	Action	stop lean	right	(80.26153; 6.836423)	47.0896	0.1170845
+	Action	start lean	right	(80.31065; 7.036577)	47.18958	0.0999794
+	Action	stop lean	right	(80.36773; 7.203453)	47.2725	0.08292007
+	Action	start lean	right	(80.41228; 7.402492)	47.37254	0.1000366
+	Action	stop lean	right	(80.48348; 7.602478)	47.4726	0.1000633
+	Action	start lean	right	(80.52699; 7.770603)	47.55659	0.08398819
+	Action	stop lean	right	(80.60239; 7.970716)	47.65696	0.1003761
+	Action	start lean	right	(80.64638; 8.136378)	47.73935	0.08238602
+	Action	stop lean	right	(81.14512; 9.070659)	48.20671	0.4673615
+	Action	start lean	left	(81.23064; 12.60655)	49.97354	1.766827
+	Action	stop lean	left	(81.18613; 12.77276)	50.05752	0.08398438
+	Event	passed_obs	obs_bike	(81.13115; 13.50664)	50.40748	0.3499603
+	Action	start lean	right	(81.13062; 17.80869)	52.57566	2.168179
+	Action	stop lean	right	(81.22146; 18.07656)	52.70953	0.1338654
+	Action	start lean	right	(81.2783; 18.34455)	52.84259	0.1330643
+	Action	stop lean	right	(81.37938; 18.61067)	52.97563	0.1330376
+	Action	start lean	right	(81.44021; 18.91067)	53.12551	0.1498833
+	Action	stop lean	right	(81.49161; 19.0766)	53.20961	0.084095
+	Action	stop	intersection	(81.55101; 22.51252)	54.92623	1.716625
+	Action	turn	straight	(81.55101; 22.65799)	55.6775	0.7512665
+	Event	gem_collected	2	(81.55101; 22.65799)	55.6775	0
+	Event	passed_obs	obs_bike	(81.55101; 35.52601)	62.182	6.504501
+	Action	stop	intersection	(81.55101; 39.52791)	64.19992	2.017921
+	Action	turn	straight	(81.55101; 39.66997)	64.9832	0.7832794
+	Event	gem_collected	1	(81.55101; 39.66997)	64.9832	0
+	Action	start lean	left	(81.55102; 42.32913)	66.40104	1.417839
+	Action	stop lean	left	(80.53529; 44.16537)	67.31937	0.918335
+	Action	start lean	right	(80.45865; 44.53125)	67.50212	0.1827469
+	Action	stop lean	right	(81.52512; 46.46509)	68.46913	0.9670105
+	Action	start lean	left	(81.56528; 46.56524)	68.51922	0.05008698
+	Action	stop lean	left	(80.1116; 49.30045)	69.88731	1.368088
+	Action	start lean	right	(80.10522; 49.33448)	69.90332	0.0160141
+	Action	stop lean	right	(81.13239; 51.30251)	70.88731	0.9839935
+	Action	start lean	right	(81.21724; 54.57034)	72.52119	1.633881
+	Action	stop lean	right	(81.36002; 54.9362)	72.70518	0.1839905
+	Action	start lean	right	(81.43709; 60.34658)	75.40915	2.703964
+	Action	stop lean	right	(81.56168; 60.67825)	75.57616	0.1670074
+	Event	passed_obs	obs_bike	(81.63712; 64.51434)	77.47716	1.901001
+	Action	start lean	right	(81.63712; 67.01661)	78.74524	1.268082
+	Action	stop lean	right	(81.7625; 67.35032)	78.91222	0.1669846
+	Action	start lean	right	(81.83746; 71.38648)	80.93033	2.018105
+	Action	stop lean	right	(81.9277; 71.65263)	81.06329	0.1329651
+	Action	start lean	right	(81.99741; 74.05462)	82.26424	1.200943
+	Action	stop lean	right	(82.08843; 74.32242)	82.39734	0.1331024
+	Action	stop	intersection	(82.15762; 78.52429)	84.49821	2.100876
+	Action	turn	left	(82.15762; 78.66622)	85.21625	0.7180328
+	Event	gem_collected	5	(82.15762; 78.66622)	85.21625	0
+	Action	start lean	left	(82.15762; 78.66622)	85.23223	0.01598358
+	Action	stop lean	left	(82.02411; 78.82759)	85.38348	0.1512451
+	Action	start lean	right	(77.75558; 79.76255)	87.71842	2.334946
+	Action	stop lean	right	(77.2888; 79.96176)	87.95129	0.232872
+	Action	start lean	right	(76.28657; 80.04248)	88.45137	0.5000763
+	Action	stop lean	right	(75.81934; 80.24271)	88.68542	0.2340546
+	Action	start lean	right	(75.08751; 80.32193)	89.05224	0.3668137
+	Event	passed_obs	obs_bike	(73.4856; 81.19829)	89.83627	0.7840347
+	Action	stop lean	right	(72.78565; 81.61825)	90.20329	0.3670197
+	Action	start lean	right	(71.61774; 81.70358)	90.78629	0.5830002
+	Action	stop lean	right	(71.51772; 81.72382)	90.83634	0.05004883
+	Action	start lean	left	(70.68388; 81.76351)	91.25328	0.4169388
+	Action	stop	intersection	(69.48364; 81.1287)	91.85468	0.6014023
+	Action	turn	left	(69.34077; 81.04301)	93.67251	1.817825
+	Event	gem_collected	5	(69.34077; 81.04301)	93.67251	0
+	Action	stop lean	left	(68.49943; 78.75256)	94.87351	1.201004
+	Action	start lean	right	(68.50519; 74.60693)	96.94084	2.067329
+	Action	stop lean	right	(68.28545; 74.10363)	97.19096	0.2501144
+	Action	start lean	right	(68.20609; 73.47052)	97.50813	0.3171768
+	Action	stop lean	right	(68.07997; 73.13873)	97.67551	0.1673737
+	Action	start lean	right	(68.01374; 72.80376)	97.842	0.1664886
+	Action	stop lean	right	(67.91622; 72.53857)	97.97496	0.1329651
+	Action	start lean	right	(67.86095; 72.30476)	98.09222	0.1172638
+	Action	stop lean	right	(67.79002; 72.10359)	98.19209	0.09986115
+	Action	start lean	right	(67.72455; 64.33276)	102.078	3.885941
+	Action	stop lean	right	(67.48708; 63.79885)	102.3452	0.2671967
+	Event	passed_obs	obs_bike	(67.4043; 62.49685)	102.9789	0.6336517
+	Action	start lean	right	(67.40428; 59.2287)	104.6301	1.651268
+	Action	stop lean	right	(67.26088; 58.86155)	104.8129	0.182785
+	Action	start lean	right	(67.184; 56.76079)	105.8642	1.0513
+	Action	stop lean	right	(67.04037; 56.39258)	106.0472	0.1830215
+	Action	start lean	right	(66.96397; 55.1257)	106.6809	0.6336212
+	Action	stop lean	right	(66.80083; 54.72297)	106.8812	0.2003708
+	Action	start lean	right	(66.72361; 53.75882)	107.3651	0.4838791
+	Action	stop lean	right	(66.5796; 53.39063)	107.5481	0.182991
+	Action	start lean	right	(66.50311; 52.18989)	108.149	0.6008682
+	Action	stop lean	right	(66.39575; 51.89088)	108.2991	0.1501007
+	Action	start lean	right	(66.32361; 51.05694)	108.7159	0.4167862
+	Action	stop lean	right	(66.21587; 50.75714)	108.866	0.1501007
+	Action	start lean	right	(66.14323; 49.48879)	109.4988	0.6327896
+	Action	stop lean	right	(65.9816; 49.08905)	109.6997	0.2009735
+	Action	start lean	right	(65.90479; 48.48895)	109.9997	0.3000183
+	Action	stop	intersection	(65.90479; 48.48895)	109.9997	0
+	Event	hit_ped	PedestrianCollider	(65.8866; 48.3423)	110.917	0.917244
+	Action	turn	straight	(65.8866; 48.3423)	111.0007	0.08374786
+	Event	gem_collected	5	(65.8866; 48.3423)	111.0007	0
+	Action	stop lean	right	(65.8866; 48.3423)	111.0168	0.01609802
+	Action	start lean	right	(65.88659; 47.0151)	111.752	0.7351685
+	Action	stop lean	right	(62.95711; 40.19275)	115.1709	3.418846
+	Action	start lean	left	(62.99884; 40.04369)	115.3038	0.1329727
+	Action	stop lean	left	(65.51945; 35.72682)	117.4718	2.167953
+	Event	passed_obs	obs_bike	(65.60498; 33.49121)	118.5727	1.100876
+	Action	stop	intersection	(65.60498; 29.48929)	120.5896	2.016953
+	Action	turn	straight	(65.60498; 29.34354)	121.2736	0.6839752
+	Event	gem_collected	1	(65.60498; 29.34354)	121.2736	0
+	Event	hit_obs	obs_bike	(65.60498; 13.40384)	129.3146	8.041039
+	Action	stop	intersection	(65.60498; 2.498531)	134.7843	5.469696
+	Action	turn	right	(65.60498; 2.355536)	135.7514	0.9670868
+	Event	gem_collected	5	(65.60498; 2.355536)	135.7514	0
+	Action	start lean	right	(65.60498; 2.355536)	135.7685	0.01705933
+	Action	stop lean	right	(63.685; 1.51932)	136.7854	1.016968
+	Action	start lean	left	(61.80934; 1.449397)	137.7189	0.9335175
+	Action	stop lean	left	(61.40936; 1.287682)	137.9198	0.2008362
+	Action	start lean	left	(60.5413; 1.209389)	138.3531	0.4333649
+	Action	stop lean	left	(60.27537; 1.118682)	138.487	0.1338348
+	Action	start lean	left	(58.57333; 1.049077)	139.3369	0.8499146
+	Action	stop lean	left	(58.20728; 0.9059982)	139.5207	0.1838379
+	Action	start lean	left	(57.33902; 0.8294148)	139.954	0.4332581
+	Action	stop lean	left	(57.00724; 0.7042594)	140.1208	0.1667938
+	Event	passed_obs	obs_bike	(56.47328; 0.6315923)	140.3709	0.2501068
+	Action	start lean	left	(56.37331; 0.6303866)	140.4381	0.06718445
+	Action	stop lean	left	(55.94112; 0.4495487)	140.6541	0.2160034
+	Action	stop	intersection	(52.46751; 0.369303)	142.3898	1.735733
+	Action	turn	straight	(52.32242; 0.369303)	142.989	0.5991364
+	Event	gem_collected	2	(52.32242; 0.369303)	142.989	0
+	Event	passed_obs	obs_bike	(41.48947; 0.3693022)	148.4769	5.487991
+	Action	stop	intersection	(37.48585; 0.3693019)	150.4949	2.017929
+	Action	turn	straight	(37.43758; 0.3693019)	150.5288	0.03393555
+	Event	gem_collected	1	(37.43758; 0.3693019)	150.5288	0
+	Action	start lean	right	(36.28149; 0.3693018)	151.1458	0.6170349
+	Action	stop lean	right	(34.88158; 1.12396)	151.8459	0.7000732
+	Action	start lean	left	(34.31356; 1.207444)	152.1299	0.2840271
+	Action	stop lean	left	(32.71361; 0.335429)	152.9299	0.7999115
+	Event	passed_obs	obs_bike	(16.46976; 0.2461739)	161.0347	8.104813
+	Event	hit_ped	PedestrianCollider	(8.225505; 0.2461733)	165.1568	4.122101
+	Action	stop	intersection	(2.489551; 0.2461729)	168.0416	2.884811
+	Action	turn	right	(2.342973; 0.2461729)	168.6758	0.6341705
+	Event	gem_collected	2	(2.342973; 0.2461729)	168.6758	0
+	Action	start lean	right	(2.342963; 0.2461729)	168.6917	0.01599121
+	Action	stop lean	right	(1.76873; 1.601918)	169.4261	0.7344055
+	Action	start lean	left	(1.738064; 3.412655)	170.3267	0.9005127
+	Action	stop lean	left	(1.461822; 4.012504)	170.6267	0.3000488
+	Action	start lean	left	(1.378789; 4.780338)	171.0106	0.3839264
+	Action	stop lean	left	(1.303732; 5.014441)	171.1267	0.1160736
+	Event	passed_obs	obs_bike	(1.238071; 13.51845)	175.3625	4.23584
+	Action	stop	intersection	(1.23807; 22.52468)	179.8815	4.518982
+	Action	turn	straight	(1.23807; 22.67181)	183.451	3.569489
+	Event	gem_collected	1	(1.23807; 22.67181)	183.451	0
+	Action	start lean	left	(1.238069; 26.16459)	185.2861	1.835037
+	Action	stop lean	left	(0.9009303; 26.86866)	185.6381	0.352005
+	Event	hit_ped	PedestrianCollider	(0.8162791; 33.3068)	188.8397	3.201675
+	Action	stop	intersection	(0.8162782; 39.51063)	191.9578	3.118027
+	Action	turn	straight	(0.8162782; 39.65204)	193.2259	1.268143
+	Event	gem_collected	2	(0.8162782; 39.65204)	193.2259	0
+	Action	start lean	left	(0.8162775; 44.87975)	195.9269	2.700989
+	Action	stop lean	left	(0.7084792; 45.17968)	196.0769	0.1499634
+	Action	start lean	left	(0.6333128; 46.11385)	196.5439	0.4670715
+	Action	stop lean	left	(0.4900888; 46.4797)	196.7279	0.18396
+	Action	start lean	left	(0.4130931; 54.08603)	200.5301	3.802231
+	Action	stop lean	left	(0.01751372; 54.88602)	200.931	0.4008484
+	Action	start lean	left	(-0.0672242; 56.55418)	201.7641	0.8331299
+	Action	stop lean	left	(-0.1749006; 56.85413)	201.915	0.1509399
+	Action	start lean	left	(-0.24737; 58.22208)	202.599	0.6839752
+	Action	stop lean	left	(-0.3550012; 58.52214)	202.7481	0.1491241
+	Action	start lean	left	(-0.4273401; 60.08992)	203.532	0.7838745
+	Action	stop lean	left	(-0.5178893; 60.35608)	203.666	0.1339874
+	Event	hit_obs	obs_bike	(-0.5874323; 62.49013)	204.716	1.049973
+	Action	start lean	right	(-0.5874327; 65.46381)	206.2197	1.503754
+	Action	stop lean	right	(-0.425482; 65.86605)	206.4197	0.1999969
+	Action	start lean	right	(-0.347436; 70.70185)	208.838	2.418228
+	Action	stop lean	right	(-0.2043415; 71.06792)	209.0217	0.1837921
+	Action	stop	intersection	(-0.1272753; 78.50562)	212.7406	3.718842
+	Action	turn	right	(-0.1272754; 78.64834)	213.6579	0.9172821
+	Event	gem_collected	2	(-0.1272754; 78.64834)	213.6579	0
+	Action	start lean	right	(-0.1272754; 78.64834)	213.6749	0.01698303
+	Action	stop lean	right	(0.02852655; 78.83473)	213.8418	0.1669312
+	Action	start lean	left	(3.744713; 79.82574)	215.9097	2.067886
+	Action	stop lean	left	(4.044832; 79.93336)	216.0595	0.1498413
+	Action	start lean	left	(5.278611; 80.00582)	216.6767	0.6172028
+	Action	stop lean	left	(6.312571; 80.54101)	217.1927	0.5160217
+	Event	hit_obs	obs_bike	(16.51896; 80.62604)	222.2794	5.086716
+	Action	backward	speed_1	(16.71879; 80.62604)	222.3966	0.1171722
+	Action	backward	stop	(17.28501; 80.62604)	222.764	0.3673553
+	Action	backward	180	(17.40893; 80.62604)	223.3477	0.5837555
+	Action	backward	180	(17.41124; 80.62517)	226.0149	2.66716
+	Action	forward	speed_1	(17.40884; 80.62517)	228.651	2.636063
+	Action	backward	stop	(20.64794; 80.62517)	231.0529	2.401962
+	Action	backward	180	(20.77109; 80.62517)	232.487	1.434113
+
+
+Summary
+Bonus Taken	Level Time	Obstacle Passed	Obstacle Hit	Pedestrian Hit	Level
+
+
+Map Info
+Intersections	(0,0)(35,0)(50,0)(66,0)(82,0)(0,26)(35,26)(50,26)(66,26)(82,26)(0,44)(35,44)(50,44)(66,44)(82,44)(0,83)(35,83)(50,83)(66,83)(82,83)
+Targets	(64.09353,75.32658)(5.722099,24.53756)(81.07253,19.22581)(29.15189,46.2769)(39.20828,-0.6667089)(29.15189,46.2769)(5.722099,24.53756)(39.20828,-0.6667089)(81.07253,19.22581)(64.09353,75.32658)(29.15189,46.2769)(64.09353,75.32658)(81.07253,19.22581)(5.722099,24.53756)(39.20828,-0.6667089)
+
+

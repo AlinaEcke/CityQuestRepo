@@ -1,0 +1,22 @@
+Desktop	1266x717 50Hz
+Date	6/27/2014
+BalanceBoard	FALSE
+StartTime	5:19 PM
+EndTime	5:19 PM
+Participant Code	OVR
+Session	scene_definition.xml
+Gameplay	Navigation
+
+
+Target	Command	Type	Details	XYPos	TimeStamp	DeltaTime
+
+
+Summary
+Target	Actual distance	Manhattan distance	Time Elapsed	Stars	Obstacle Passed	Obstacle Hit	Pedestrian Hit	Level
+
+
+Map Info
+Intersections	
+Targets	
+
+

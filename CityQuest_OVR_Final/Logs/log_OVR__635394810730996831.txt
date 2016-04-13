@@ -1,0 +1,23 @@
+Desktop	1266x712 50Hz
+Date	6/27/2014
+BalanceBoard	FALSE
+StartTime	5:51 PM
+EndTime	5:51 PM
+Participant Code	OVR
+Session	scene_definition.xml
+Gameplay	ObstacleAvoidance
+
+
+Target	Command	Type	Details	XYPos	TimeStamp	DeltaTime
+	Event	start	level_1	(30; 2.9988)	5.415916	0
+
+
+Summary
+Bonus Taken	Level Time	Obstacle Passed	Obstacle Hit	Pedestrian Hit	Level
+
+
+Map Info
+Intersections	(0,0)(15,0)(30,0)(67,0)(96,0)(0,16)(15,16)(30,16)(67,16)(96,16)(0,33)(15,33)(30,33)(67,33)(96,33)(0,59)(15,59)(30,59)(67,59)(96,59)
+Targets	(74.80152,58.14109)(59.32657,0.9064741)(64.45969,11.30682)(37.20828,14.33329)(98.91422,22.39034)(59.32657,0.9064741)(64.45969,11.30682)(98.91422,22.39034)(37.20828,14.33329)(74.80152,58.14109)(37.20828,14.33329)(98.91422,22.39034)(74.80152,58.14109)(64.45969,11.30682)(59.32657,0.9064741)
+
+

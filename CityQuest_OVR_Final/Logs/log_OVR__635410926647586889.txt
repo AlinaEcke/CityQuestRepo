@@ -1,0 +1,58 @@
+Desktop	1280x720 50Hz
+Date	7/16/2014
+BalanceBoard	FALSE
+StartTime	9:30 AM
+EndTime	9:32 AM
+Participant Code	OVR
+Session	scene_definition.xml
+Gameplay	ObstacleAvoidance
+
+
+Target	Command	Type	Details	XYPos	TimeStamp	DeltaTime
+	Event	start	level_1	(70; 56.0012)	5.489194	0
+	Action	forward	speed_1	(70; 56.0012)	24.12692	18.63773
+	Event	passed_obs	obs_bike	(70; 50.4875)	28.15489	4.027969
+	Action	stop	intersection	(70; 46.49926)	31.02376	2.868874
+	Action	turn	left	(70; 46.3816)	37.17292	6.149158
+	Event	gem_collected	5	(70; 46.3816)	37.17292	0
+	Action	start lean	left	(70; 46.3816)	37.18966	0.01673889
+	Action	stop lean	left	(70.0285; 46.33847)	37.26978	0.08012009
+	Action	start lean	right	(75.03527; 44.7365)	41.46282	4.193039
+	Action	stop lean	right	(78.1595; 42.92159)	43.6934	2.230579
+	Action	start lean	left	(79.20861; 42.86205)	44.44281	0.7494087
+	Event	passed_obs	obs_bike	(79.51269; 42.98858)	44.64382	0.2010155
+	Action	stop lean	left	(80.51682; 43.58721)	45.37719	0.7333641
+	Action	stop	intersection	(83.50077; 43.64614)	47.50951	2.13232
+	Action	turn	left	(83.6027; 43.64614)	48.97765	1.468147
+	Event	gem_collected	2	(83.6027; 43.64614)	48.97765	0
+	Action	start lean	left	(83.6027; 43.64614)	48.99251	0.01485825
+	Action	stop lean	left	(83.66736; 43.69077)	49.09253	0.1000175
+	Action	start lean	left	(84.92848; 46.90446)	51.85263	2.760098
+	Action	stop lean	left	(84.78377; 47.25281)	52.10089	0.2482681
+	Action	start lean	right	(84.71869; 51.63849)	55.23206	3.131168
+	Event	passed_obs	obs_bike	(85.17646; 52.51053)	55.83752	0.6054611
+	Action	stop lean	right	(86.50127; 54.71863)	57.43493	1.597404
+	Action	stop	intersection	(86.57165; 56.51727)	58.71911	1.28418
+	Action	turn	left	(86.57165; 56.6315)	59.1189	0.3997879
+	Event	gem_collected	5	(86.57165; 56.6315)	59.1189	0
+	Action	start lean	left	(86.57165; 56.63179)	59.13784	0.01894379
+	Action	stop lean	left	(86.53207; 56.69045)	59.23493	0.09709167
+	Action	start lean	left	(82.80119; 58.07889)	62.41965	3.184723
+	Action	stop lean	left	(81.94261; 57.64504)	63.0318	0.6121445
+	Action	start lean	right	(78.70076; 57.56727)	65.34933	2.317535
+	Event	hit_obs	obs_bike	(77.64002; 58.12415)	66.08457	0.7352371
+	Action	stop lean	right	(76.92271; 58.55447)	66.61954	0.5349655
+	Action	backward	stop	(76.33272; 58.63246)	67.03899	0.4194489
+	Event	start	level_2	(88; 51)	79.41039	12.37141
+
+
+Summary
+Bonus Taken	Level Time	Obstacle Passed	Obstacle Hit	Pedestrian Hit	Level
+3	60	3	1	0	1
+
+
+Map Info
+Intersections	(0,0)(16,0)(42,0)(57,0)(94,0)(0,16)(16,16)(42,16)(57,16)(94,16)(0,51)(16,51)(42,51)(57,51)(94,51)(0,68)(16,68)(42,68)(57,68)(94,68)
+Targets	(74.7891,24.05441)(0.4885597,10.67458)(85.08239,18.54472)(27.86989,0.5810699)(29.32657,44.90648)(85.08239,18.54472)(29.32657,44.90648)(27.86989,0.5810699)(0.4885597,10.67458)(74.7891,24.05441)(74.7891,24.05441)(29.32657,44.90648)(0.4885597,10.67458)(85.08239,18.54472)(27.86989,0.5810699)(5.215393,65.11021)(96.92747,55.77419)(61.77419,-1.927477)(62.67343,15.09352)(56.08389,62.57586)(61.77419,-1.927477)(96.92747,55.77419)(62.67343,15.09352)(5.215393,65.11021)(56.08389,62.57586)(61.77419,-1.927477)(5.215393,65.11021)(96.92747,55.77419)(56.08389,62.57586)(62.67343,15.09352)
+
+

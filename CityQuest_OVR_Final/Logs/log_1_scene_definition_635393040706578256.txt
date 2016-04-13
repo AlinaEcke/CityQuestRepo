@@ -1,0 +1,31 @@
+Desktop	1280x720 50Hz
+Date	6/25/2014
+BalanceBoard	FALSE
+StartTime	4:40 PM
+EndTime	4:42 PM
+Participant Code	1
+Session	scene_definition.xml
+Gameplay	ObstacleAvoidance
+
+
+Target	Command	Type	Details	XYPos	TimeStamp	DeltaTime
+	Event	start	level_1	(3.998798; 45)	14.37654	0
+	Action	forward	speed_1	(3.998798; 45)	21.45642	7.079885
+	Action	start lean	right	(4.992578; 45)	22.33985	0.8834305
+	Action	stop lean	right	(5.894362; 44.57288)	22.98925	0.6493931
+	Action	start lean	left	(6.93173; 44.45871)	23.72337	0.7341194
+	Action	stop lean	left	(8.049875; 45.01576)	24.52402	0.8006554
+	Action	start lean	right	(9.591084; 45.1265)	25.62514	1.101124
+	Action	stop lean	right	(10.4826; 44.70437)	26.25989	0.6347485
+	Action	backward	stop	(11.80049; 44.59125)	27.2026	0.9427052
+
+
+Summary
+Bonus Taken	Level Time	Obstacle Passed	Obstacle Hit	Pedestrian Hit	Level
+
+
+Map Info
+Intersections	(0,0)(37,0)(64,0)(79,0)(94,0)(0,28)(37,28)(64,28)(79,28)(94,28)(0,45)(37,45)(64,45)(79,45)(94,45)(0,81)(37,81)(64,81)(79,81)(94,81)
+Targets	(44.80152,25.14109)(52.79172,82.66671)(93.08239,19.54472)(0.5403061,33.69318)(79.91611,33.42414)(93.08239,19.54472)(0.5403061,33.69318)(52.79172,82.66671)(44.80152,25.14109)(79.91611,33.42414)(79.91611,33.42414)(52.79172,82.66671)(0.5403061,33.69318)(93.08239,19.54472)(44.80152,25.14109)
+
+

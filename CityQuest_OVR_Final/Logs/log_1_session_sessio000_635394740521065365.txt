@@ -1,0 +1,40 @@
+Desktop	1266x693 50Hz
+Date	6/27/2014
+BalanceBoard	FALSE
+StartTime	3:53 PM
+EndTime	3:54 PM
+Participant Code	1
+Session	session_sessio000.ses
+Gameplay	Navigation
+
+
+Target	Command	Type	Details	XYPos	TimeStamp	DeltaTime
+	Event	start	level_1	(69.0012; 43)	44.495	0
+PostOffice	Event	search	target_1	(69.0012; 43)	47.01126	2.516266
+PostOffice	Action	forward	speed_1	(69.0012; 43)	55.64573	8.634464
+PostOffice	Action	start lean	right	(68.69194; 43)	56.03779	0.3920631
+PostOffice	Event	move_obs	obst_dressCarrier	(67.82327; 43.41088)	56.64149	0.6037025
+PostOffice	Action	stop lean	right	(65.6651; 44.70333)	58.21616	1.574673
+PostOffice	Event	passed_obs	obst_dressCarrier	(63.47953; 44.82932)	59.74443	1.528271
+PostOffice	Action	stop	intersection	(59.46214; 44.82933)	62.65009	2.905655
+PostOffice	Action	turn	right	(59.25053; 44.82933)	63.32314	0.6730499
+PostOffice	Action	start lean	right	(59.24981; 44.82933)	63.36433	0.0411911
+PostOffice	Action	stop lean	right	(59.23839; 44.83622)	63.39675	0.0324173
+PostOffice	Event	move_obs	obst_courierCart	(57.69721; 47.69941)	66.08861	2.69186
+PostOffice	Action	start lean	left	(57.69721; 47.74932)	66.15644	0.06783295
+PostOffice	Action	stop lean	left	(55.76093; 51.17867)	68.60883	2.452385
+PostOffice	Event	passed_obs	obst_courierCart	(55.63985; 52.51754)	69.53033	0.9215088
+PostOffice	Action	start lean	right	(55.63969; 52.73844)	69.72006	0.1897278
+PostOffice	Action	stop lean	right	(56.10601; 53.70744)	70.41237	0.6923065
+PostOffice	Action	stop	intersection	(56.2179; 56.50501)	72.41014	1.997772
+
+
+Summary
+Target	Actual distance	Manhattan distance	Time Elapsed	Stars	Obstacle Passed	Obstacle Hit	Pedestrian Hit	Level
+
+
+Map Info
+Intersections	(0,0)(26,0)(42,0)(57,0)(72,0)(0,27)(26,27)(42,27)(57,27)(72,27)(0,43)(26,43)(42,43)(57,43)(72,43)(0,61)(26,61)(42,61)(57,61)(72,61)
+Targets	
+
+

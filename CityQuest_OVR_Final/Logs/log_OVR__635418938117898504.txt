@@ -1,0 +1,22 @@
+Desktop	1280x720 50Hz
+Date	7/25/2014
+BalanceBoard	TRUE
+StartTime	4:03 PM
+EndTime	4:03 PM
+Participant Code	OVR
+Session	scene_definition.xml
+Gameplay	ObstacleAvoidance
+
+
+Target	Command	Type	Details	XYPos	TimeStamp	DeltaTime
+
+
+Summary
+Bonus Taken	Level Time	Obstacle Passed	Obstacle Hit	Pedestrian Hit	Level
+
+
+Map Info
+Intersections	
+Targets	
+
+

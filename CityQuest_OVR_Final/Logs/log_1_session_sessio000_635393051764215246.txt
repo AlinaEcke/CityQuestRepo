@@ -1,0 +1,49 @@
+Desktop	1266x712 50Hz
+Date	6/25/2014
+BalanceBoard	FALSE
+StartTime	4:59 PM
+EndTime	5:03 PM
+Participant Code	1
+Session	session_sessio000.ses
+Gameplay	Navigation
+
+
+Target	Command	Type	Details	XYPos	TimeStamp	DeltaTime
+	Event	start	level_1	(3.498799; 43)	28.05277	0
+PostOffice	Event	search	target_1	(3.498799; 43)	30.58319	2.530426
+PostOffice	Action	forward	speed_1	(3.498799; 43)	55.24023	24.65703
+PostOffice	Action	forward	speed_2	(5.535279; 43)	56.95597	1.71574
+PostOffice	Event	move_obs	obst_shoppincart	(8.34318; 43)	57.5704	0.6144371
+PostOffice	Event	passed_obs	obst_shoppincart	(13.79487; 43)	58.49251	0.9221077
+PostOffice	Action	backward	speed_1	(14.73913; 43)	58.70082	0.2083092
+PostOffice	Action	stop	intersection	(22.52201; 43)	63.33713	4.636311
+PostOffice	Action	turn	right	(22.8263; 43)	106.2865	42.94941
+PostOffice	Action	start lean	right	(22.8263; 43)	106.3452	0.05870819
+PostOffice	Action	stop lean	right	(22.84148; 42.98988)	106.395	0.0497818
+PostOffice	Action	backward	stop	(24.11346; 38.56425)	110.164	3.768936
+PostOffice	Action	backward	180	(24.11346; 38.23413)	110.6647	0.5007095
+PostOffice	Action	forward	speed_1	(23.93238; 38.27701)	186.5563	75.89162
+PostOffice	Action	stop	intersection	(23.93238; 39.5238)	187.6171	1.060837
+PostOffice	Action	turn	straight	(23.93238; 39.72963)	188.6712	1.054062
+PostOffice	Action	start lean	right	(23.93238; 46.95172)	194.0083	5.337082
+PostOffice	Event	move_obs	obst_dressCarrier	(23.94614; 47.03884)	194.038	0.0296936
+PostOffice	Action	stop lean	right	(24.24622; 47.66057)	194.5178	0.4798126
+PostOffice	Action	start lean	right	(24.35733; 48.45853)	195.0837	0.5658875
+PostOffice	Action	stop lean	right	(24.74748; 49.29821)	195.6908	0.6070862
+PostOffice	Event	hit_obs	obst_dressCarrier	(24.86018; 50.06094)	196.1964	0.5056763
+PostOffice	Action	backward	stop	(24.86192; 50.24009)	196.3553	0.1588745
+PostOffice	Event	hit_obs	obst_dressCarrier	(24.86323; 50.46962)	196.9192	0.5639191
+PostOffice	Event	hit_obs	obst_dressCarrier	(24.86323; 50.47053)	196.9615	0.04225159
+PostOffice	Action	forward	speed_1	(24.86325; 50.47372)	202.8523	5.890823
+PostOffice	Action	stop	intersection	(24.86325; 56.53205)	207.3412	4.488922
+
+
+Summary
+Target	Actual distance	Manhattan distance	Time Elapsed	Stars	Obstacle Passed	Obstacle Hit	Pedestrian Hit	Level
+
+
+Map Info
+Intersections	(0,0)(26,0)(42,0)(57,0)(72,0)(0,27)(26,27)(42,27)(57,27)(72,27)(0,43)(26,43)(42,43)(57,43)(72,43)(0,61)(26,61)(42,61)(57,61)(72,61)
+Targets	
+
+

@@ -1,0 +1,24 @@
+Desktop	1266x693 50Hz
+Date	6/27/2014
+BalanceBoard	FALSE
+StartTime	3:31 PM
+EndTime	3:33 PM
+Participant Code	001
+Session	session_sessio000.ses
+Gameplay	Navigation
+
+
+Target	Command	Type	Details	XYPos	TimeStamp	DeltaTime
+	Event	start	tutorial	(0; 4.9988)	107.739	0
+	Event	phase1	start	(0; 4.9988)	107.739	0
+
+
+Summary
+Target	Actual distance	Manhattan distance	Time Elapsed	Stars	Obstacle Passed	Obstacle Hit	Pedestrian Hit	Level
+
+
+Map Info
+Intersections	(0,0)(17,0)(34,0)(61,0)(0,37)(17,37)(34,37)(61,37)(0,54)(17,54)(34,54)(61,54)
+Targets	
+
+

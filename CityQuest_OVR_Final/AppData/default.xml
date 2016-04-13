@@ -1,0 +1,113 @@
+<session>
+  <city_grid>
+    <horizontal value="3" />
+    <vertical value="3" />
+    <roads>
+      <road type="B" perc="40" />
+      <road type="C" perc="30" />
+      <road type="D" perc="30" />
+    </roads>
+    <blocks>
+      <block floors="1" perc="30" />
+      <block floors="2" perc="30" />
+      <block floors="3" perc="30" />
+      <block floors="4" perc="10" />
+    </blocks>
+  </city_grid>
+  <gameplay>
+    <targets number="5"/>
+  </gameplay>
+  <learningphase enabled="true" showtargetonmap="true" showmap="true" />
+  <levels>
+    <level id="1" showtargetonmap="false" showmap="true">
+      <obstacle_occurrences>
+        <occurrence number="0" perc="100"/>
+      </obstacle_occurrences>
+      <obstacles sound="100">
+        <!-- Statics -->
+        <obstacle class="obs_ball" weight="0" alpha="1.0" />
+        <obstacle class="obs_barrier" weight="0" alpha="1.0" />
+        <obstacle class="obs_bench" weight="0" alpha="1.0" />
+        <obstacle class="obs_bike" weight="0" alpha="1.0" />
+        <obstacle class="obs_brokenpavement" weight="0" alpha="1.0" />
+        <obstacle class="obs_cable" weight="0" alpha="1.0" />
+        <obstacle class="obs_cone" weight="0" alpha="1.0" />
+        <obstacle class="obs_garbpile" weight="0" alpha="1.0" />
+        <obstacle class="obs_pole" weight="0" alpha="1.0" />
+        <obstacle class="obs_roadpuddle" weight="0" alpha="1.0" />
+        <!-- Dynamics -->
+        <obstacle class="obst_courierCart" weight="0" alpha="1.0" speed="1.0"/>
+        <obstacle class="obst_dressCarrier" weight="0" alpha="1.0" speed="1.0" />
+        <obstacle class="obst_garbageBin" weight="0" alpha="1.0" speed="1.0" />
+        <obstacle class="obst_shoppincart" weight="0" alpha="1.0" speed="1.0" />
+        <obstacle class="obst_rolling" weight="0" alpha="1.0" speed="1.0" />
+      </obstacles>
+      <pedestrians number="20" />
+      <graphics>
+        <!-- day/night -->
+        <illumination type="day" />
+      </graphics>
+      <obstacletimer seconds="120" />
+    </level>
+    <level id="2" showtargetonmap="false" showmap="true">
+      <obstacle_occurrences>
+        <occurrence number="1" perc="100"/>
+      </obstacle_occurrences>
+      <obstacles sound="100">
+        <!-- Statics -->
+        <obstacle class="obs_ball" weight="10" alpha="1.0" />
+        <obstacle class="obs_barrier" weight="10" alpha="1.0" />
+        <obstacle class="obs_bench" weight="10" alpha="1.0" />
+        <obstacle class="obs_bike" weight="10" alpha="1.0" />
+        <obstacle class="obs_brokenpavement" weight="10" alpha="1.0" />
+        <obstacle class="obs_cable" weight="10" alpha="1.0" />
+        <obstacle class="obs_cone" weight="10" alpha="1.0" />
+        <obstacle class="obs_garbpile" weight="10" alpha="1.0" />
+        <obstacle class="obs_pole" weight="10" alpha="1.0" />
+        <obstacle class="obs_roadpuddle" weight="10" alpha="1.0" />
+        <!-- Dynamics -->
+        <obstacle class="obst_courierCart" weight="0" alpha="1.0" speed="1.0"/>
+        <obstacle class="obst_dressCarrier" weight="0" alpha="1.0" speed="1.0" />
+        <obstacle class="obst_garbageBin" weight="0" alpha="1.0" speed="1.0" />
+        <obstacle class="obst_shoppincart" weight="0" alpha="1.0" speed="1.0" />
+        <obstacle class="obst_rolling" weight="0" alpha="1.0" speed="1.0" />
+      </obstacles>
+      <pedestrians number="50" />
+      <graphics>
+        <!-- day/night -->
+        <illumination type="day" />
+      </graphics>
+      <obstacletimer seconds="120" />
+    </level>
+    <level id="3" showtargetonmap="false" showmap="true">
+      <obstacle_occurrences>
+        <occurrence number="2" perc="100"/>
+      </obstacle_occurrences>
+      <obstacles sound="100">
+        <!-- Statics -->
+        <obstacle class="obs_ball" weight="10" alpha="1.0" />
+        <obstacle class="obs_barrier" weight="10" alpha="1.0" />
+        <obstacle class="obs_bench" weight="10" alpha="1.0" />
+        <obstacle class="obs_bike" weight="10" alpha="1.0" />
+        <obstacle class="obs_brokenpavement" weight="10" alpha="1.0" />
+        <obstacle class="obs_cable" weight="10" alpha="1.0" />
+        <obstacle class="obs_cone" weight="10" alpha="1.0" />
+        <obstacle class="obs_garbpile" weight="10" alpha="1.0" />
+        <obstacle class="obs_pole" weight="10" alpha="1.0" />
+        <obstacle class="obs_roadpuddle" weight="10" alpha="1.0" />
+        <!-- Dynamics -->
+        <obstacle class="obst_courierCart" weight="10" alpha="1.0" speed="1.0"/>
+        <obstacle class="obst_dressCarrier" weight="10" alpha="1.0" speed="1.0" />
+        <obstacle class="obst_garbageBin" weight="10" alpha="1.0" speed="1.0" />
+        <obstacle class="obst_shoppincart" weight="10" alpha="1.0" speed="1.0" />
+        <obstacle class="obst_rolling" weight="10" alpha="1.0" speed="1.0" />
+      </obstacles>
+      <pedestrians number="50" />
+      <graphics>
+        <!-- day/night -->
+        <illumination type="day" />
+      </graphics>
+      <obstacletimer seconds="120" />
+    </level>
+  </levels>
+</session>

@@ -1,0 +1,42 @@
+Desktop	1906x997 50Hz
+Date	6/25/2014
+BalanceBoard	FALSE
+StartTime	5:20 PM
+EndTime	5:29 PM
+Participant Code	1
+Session	session_OVR.ses
+Gameplay	Navigation
+
+
+Target	Command	Type	Details	XYPos	TimeStamp	DeltaTime
+	Event	start	level_1	(54; 37.5012)	39.68323	0
+Minimarket	Event	search	target_1	(54; 37.5012)	42.18925	2.506023
+Minimarket	Action	forward	speed_1	(54; 37.5012)	96.78036	54.5911
+Minimarket	Event	move_obs	obst_rolling	(54; 31.17632)	101.4643	4.683929
+Minimarket	Action	start lean	right	(54; 29.59356)	102.6342	1.169884
+Minimarket	Action	stop lean	right	(53.96811; 29.43282)	102.7559	0.1217422
+Minimarket	Action	start lean	right	(53.93469; 29.25665)	102.8734	0.1174622
+Minimarket	Action	stop lean	right	(53.5066; 28.37193)	103.5075	0.634079
+Minimarket	Event	passed_obs	obst_rolling	(53.3703; 27.49002)	104.0973	0.5898819
+Minimarket	Action	stop	intersection	(53.3657; 18.44956)	110.5908	6.493484
+Minimarket	Action	turn	right	(53.3657; 18.23331)	119.4902	8.899353
+Minimarket	Action	start lean	right	(53.3657; 18.23331)	119.5446	0.05445099
+Minimarket	Action	stop lean	right	(53.33841; 18.19496)	119.6414	0.09677124
+Minimarket	Action	forward	speed_2	(49.58065; 16.99057)	122.8339	3.192528
+Minimarket	Action	backward	speed_1	(40.95938; 16.99057)	124.4417	1.607788
+Minimarket	Event	move_obs	obst_courierCart	(40.13549; 16.99057)	124.5699	0.1281586
+Minimarket	Action	forward	speed_2	(38.6781; 16.99057)	125.3544	0.7845764
+Minimarket	Event	passed_obs	obst_courierCart	(35.42636; 16.99057)	126.0177	0.6632996
+Minimarket	Action	backward	speed_1	(34.72212; 16.99057)	126.1759	0.1581573
+Minimarket	Action	stop	intersection	(21.49299; 16.99057)	134.939	8.763138
+
+
+Summary
+Target	Actual distance	Manhattan distance	Time Elapsed	Stars	Obstacle Passed	Obstacle Hit	Pedestrian Hit	Level
+
+
+Map Info
+Intersections	(0,0)(17,0)(54,0)(0,16)(17,16)(54,16)(0,41)(17,41)(54,41)
+Targets	(-0.9142127,35.60966)(11.21091,16.94559)(34.22581,41.92748)(48.32657,1.906474)(14.07252,35.22581)(14.07252,35.22581)(-0.9142127,35.60966)(34.22581,41.92748)(11.21091,16.94559)(48.32657,1.906474)(14.07252,35.22581)(11.21091,16.94559)(34.22581,41.92748)(48.32657,1.906474)(-0.9142127,35.60966)
+
+
