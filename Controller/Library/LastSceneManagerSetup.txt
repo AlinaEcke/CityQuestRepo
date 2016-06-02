@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: C:/Users/aecke/Documents/GitHub/CityQuestRepo/ControllerCityQuest/Assets/ControllerTest1.unity
+  isLoaded: 1
+  isActive: 1
