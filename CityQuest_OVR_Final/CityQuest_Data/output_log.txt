@@ -1,30 +1,30 @@
 Initialize engine version: 4.3.3f1 (c8ca9b6b9936)
 GfxDevice: creating device client; threaded=1
 Direct3D:
-    Version:  Direct3D 9.0c [nvd3dum.dll 10.18.13.6472]
-    Renderer: NVIDIA GeForce GTX 680
+    Version:  Direct3D 9.0c [nvd3dum.dll 10.18.13.6839]
+    Renderer: NVIDIA GeForce GTX 970
     Vendor:   NVIDIA
-    VRAM:     1989 MB (via DXGI)
+    VRAM:     3072 MB (via DXGI)
     Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\CityQuestRepo\CityQuest_OVR_Final\CityQuest_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\CityQuestRepo\CityQuest_OVR_Final\CityQuest_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\CityQuestRepo\CityQuest_OVR_Final\CityQuest_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
-Loading C:\CityQuestRepo\CityQuest_OVR_Final\CityQuest_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
-Platform assembly: C:\CityQuestRepo\CityQuest_OVR_Final\CityQuest_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\CityQuestRepo\CityQuest_OVR_Final\CityQuest_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\CityQuestRepo\CityQuest_OVR_Final\CityQuest_Data\Managed\System.Windows.Forms.dll (this message is harmless)
-Loading C:\CityQuestRepo\CityQuest_OVR_Final\CityQuest_Data\Managed\System.Windows.Forms.dll into Unity Child Domain
-Platform assembly: C:\CityQuestRepo\CityQuest_OVR_Final\CityQuest_Data\Managed\System.XML.dll (this message is harmless)
-Loading C:\CityQuestRepo\CityQuest_OVR_Final\CityQuest_Data\Managed\System.XML.dll into Unity Child Domain
-Platform assembly: C:\CityQuestRepo\CityQuest_OVR_Final\CityQuest_Data\Managed\LibUniSWF.dll (this message is harmless)
-Loading C:\CityQuestRepo\CityQuest_OVR_Final\CityQuest_Data\Managed\LibUniSWF.dll into Unity Child Domain
-- Completed reload, in  0.054 seconds
+Platform assembly: C:\Alina Ecke\CityQuestRepo\CityQuest_OVR_Final\CityQuest_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Alina Ecke\CityQuestRepo\CityQuest_OVR_Final\CityQuest_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Alina Ecke\CityQuestRepo\CityQuest_OVR_Final\CityQuest_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Alina Ecke\CityQuestRepo\CityQuest_OVR_Final\CityQuest_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Alina Ecke\CityQuestRepo\CityQuest_OVR_Final\CityQuest_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Alina Ecke\CityQuestRepo\CityQuest_OVR_Final\CityQuest_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Alina Ecke\CityQuestRepo\CityQuest_OVR_Final\CityQuest_Data\Managed\System.Windows.Forms.dll (this message is harmless)
+Loading C:\Alina Ecke\CityQuestRepo\CityQuest_OVR_Final\CityQuest_Data\Managed\System.Windows.Forms.dll into Unity Child Domain
+Platform assembly: C:\Alina Ecke\CityQuestRepo\CityQuest_OVR_Final\CityQuest_Data\Managed\System.XML.dll (this message is harmless)
+Loading C:\Alina Ecke\CityQuestRepo\CityQuest_OVR_Final\CityQuest_Data\Managed\System.XML.dll into Unity Child Domain
+Platform assembly: C:\Alina Ecke\CityQuestRepo\CityQuest_OVR_Final\CityQuest_Data\Managed\LibUniSWF.dll (this message is harmless)
+Loading C:\Alina Ecke\CityQuestRepo\CityQuest_OVR_Final\CityQuest_Data\Managed\LibUniSWF.dll into Unity Child Domain
+- Completed reload, in  0.052 seconds
 <RI> Initializing input.
 <RI> Input initialized.
-desktop: 1680x1050 60Hz; virtual: 3360x1193 at 0,-143
-Platform assembly: C:\CityQuestRepo\CityQuest_OVR_Final\CityQuest_Data\Managed\System.dll (this message is harmless)
-Platform assembly: C:\CityQuestRepo\CityQuest_OVR_Final\CityQuest_Data\Managed\System.Core.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 6160x1440 at -4240,0
+Platform assembly: C:\Alina Ecke\CityQuestRepo\CityQuest_OVR_Final\CityQuest_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Alina Ecke\CityQuestRepo\CityQuest_OVR_Final\CityQuest_Data\Managed\System.Core.dll (this message is harmless)
 The referenced script on this Behaviour is missing!
  
 (Filename:  Line: 1699)
@@ -40,7 +40,7 @@ OVRMainMenu: No OVRPlayerController attached.
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
 Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1759.
-Total: 1.014574 ms (FindLiveObjects: 0.054520 ms CreateObjectMapping: 0.015774 ms MarkObjects: 0.444187 ms  DeleteObjects: 0.116789 ms)
+Total: 1.121794 ms (FindLiveObjects: 0.049840 ms CreateObjectMapping: 0.014348 ms MarkObjects: 0.405900 ms  DeleteObjects: 0.170289 ms)
 
 ---> 120
  
@@ -54,12 +54,6 @@ Total: 1.014574 ms (FindLiveObjects: 0.054520 ms CreateObjectMapping: 0.015774 m
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-HandleD3DDeviceLost
-  HandleD3DDeviceLost: needs reset, doing it
-FullResetD3DDevice
-ResetD3DDevice
-dev->Reset
-D3Dwindow device not lost anymore
 No receiver of signal "OnEnvManagerProgress" on object GameManagers (EnvironmentManager)
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
@@ -100,27 +94,23 @@ Select LEVEL 1
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-### EnvironmentManager: target3, borderBuilding0
+### EnvironmentManager: target1, borderBuilding1
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-### EnvironmentManager: target1, borderBuilding5
+### EnvironmentManager: target3, borderBuilding5
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-### EnvironmentManager: target3, borderBuilding8
+### EnvironmentManager: target3, borderBuilding10
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-### EnvironmentManager: target1, borderBuilding10
+### EnvironmentManager: target1, borderBuilding14
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-### EnvironmentManager: target3, borderBuilding14
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-### EnvironmentManager: target1, borderBuilding17
+### EnvironmentManager: target1, borderBuilding15
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
@@ -148,7 +138,7 @@ OnEnvironmentGenerated
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
+Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2550, 2550
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
@@ -168,347 +158,27 @@ OnBriefingObstAvoidExit
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
+Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2550, 2550
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
+Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2550, 2550
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
+Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2550, 2550
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-OnChooseEnter
+Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2550, 2550
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-OnChooseExit
+Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2550, 2550
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-Enabled walls: System.Collections.Generic.List`1[System.Int32]
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-LEFT
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Disable walls
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-@PlayerKinematicBehaviour: ObstacleTriggerEnter: obs_bike
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-@PlayerKinematicBehaviour: ObstacleTriggerExit
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-OnChooseEnter
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-OnChooseExit
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Enabled walls: System.Collections.Generic.List`1[System.Int32]
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-UP
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Disable walls
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-OnChooseEnter
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-OnChooseExit
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Enabled walls: System.Collections.Generic.List`1[System.Int32]
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-LEFT
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Disable walls
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-OnChooseEnter
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-OnChooseExit
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Enabled walls: System.Collections.Generic.List`1[System.Int32]
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-LEFT
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Disable walls
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-OnChooseEnter
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-OnChooseExit
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Enabled walls: System.Collections.Generic.List`1[System.Int32]
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-UP
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
+Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2550, 2550
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
@@ -516,7 +186,15 @@ Pathplan failed because it reached the max node count. Try increasing the Max Nu
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
+Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2550, 2550
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2550, 2550
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+@PlayerKinematicBehaviour: ObstacleTriggerEnter: PedestrianCollider
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
@@ -524,95 +202,63 @@ Pathplan failed because it reached the max node count. Try increasing the Max Nu
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
+@PlayerKinematicBehaviour: ObstacleTriggerExit
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
+Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2550, 2550
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-Disable walls
+Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2550, 2550
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
+@PlayerKinematicBehaviour: ObstacleTriggerEnter: PedestrianCollider
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
+@PlayerKinematicBehaviour: ObstacleTriggerExit
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
+Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2550, 2550
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
+@PlayerKinematicBehaviour: ObstacleTriggerEnter: PedestrianCollider
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
+Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2550, 2550
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
+@PlayerKinematicBehaviour: ObstacleTriggerExit
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
+@PlayerKinematicBehaviour: ObstacleTriggerEnter: PedestrianCollider
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
+@PlayerKinematicBehaviour: ObstacleTriggerExit
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
+Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2550, 2550
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
+Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2550, 2550
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
+Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2550, 2550
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
+Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2550, 2550
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
@@ -620,15 +266,55 @@ OnChooseEnter
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
+Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2550, 2550
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
+Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2550, 2550
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
+Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2550, 2550
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2550, 2550
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+OnChooseExit
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Enabled walls: System.Collections.Generic.List`1[System.Int32]
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+RIGHT
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2550, 2550
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Disable walls
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2550, 2550
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+@PlayerKinematicBehaviour: ObstacleTriggerEnter: obs_bike
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+@PlayerKinematicBehaviour: ObstacleTriggerExit
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+OnChooseEnter
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
@@ -644,55 +330,11 @@ UP
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
 Disable walls
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
 OnChooseEnter
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
@@ -704,15 +346,7 @@ Enabled walls: System.Collections.Generic.List`1[System.Int32]
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-UP
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
+RIGHT
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
@@ -720,23 +354,35 @@ Disable walls
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
+OnChooseEnter
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
+@PlayerKinematicBehaviour: ObstacleTriggerEnter: PedestrianCollider
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
+@PlayerKinematicBehaviour: ObstacleTriggerExit
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
+@PlayerKinematicBehaviour: ObstacleTriggerEnter: PedestrianCollider
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
+@PlayerKinematicBehaviour: ObstacleTriggerEnter: PedestrianCollider
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+@PlayerKinematicBehaviour: ObstacleTriggerExit
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+OnChooseExit
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+DOWN
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
@@ -744,11 +390,27 @@ OnChooseEnter
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
+OnChooseExit
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
+DOWN
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+@PlayerKinematicBehaviour: ObstacleTriggerExit
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Disable walls
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2550, 2550
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+OnChooseEnter
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
@@ -764,55 +426,7 @@ LEFT
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
 Disable walls
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
@@ -820,103 +434,79 @@ OnChooseEnter
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
+OnChooseExit
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
+Enabled walls: System.Collections.Generic.List`1[System.Int32]
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
+RIGHT
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
+Disable walls
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
+OnChooseEnter
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
+@PlayerKinematicBehaviour: ObstacleTriggerEnter: PedestrianCollider
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
+Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2550, 2550
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
+Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2550, 2550
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
+Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2550, 2550
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
+@PlayerKinematicBehaviour: ObstacleTriggerEnter: PedestrianCollider
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
+@PlayerKinematicBehaviour: ObstacleTriggerExit
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
+Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2550, 2550
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
+@PlayerKinematicBehaviour: ObstacleTriggerExit
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
+Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2550, 2550
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
+@PlayerKinematicBehaviour: ObstacleTriggerEnter: PedestrianCollider
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
+@PlayerKinematicBehaviour: ObstacleTriggerEnter: PedestrianCollider
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
+Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2550, 2550
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
+@PlayerKinematicBehaviour: ObstacleTriggerExit
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
-Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2756, 2756
+Pathplan failed because it reached the max node count. Try increasing the Max Number Of Nodes Per Planner variable on the PathManager, through the Inspector window.2550, 2550
  
 (Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
 
