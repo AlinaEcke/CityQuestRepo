@@ -52,3 +52,7 @@ CityQuest_OVR_Final/CityQuest_Data/output_log.txt
 Library
 *.csproj
 *.sln
+*.suo
+*.html
+ControllerCityQuest/Assets/OSVRUnity/CONTRIBUTING.html.meta
+ControllerCityQuest/Assets/OSVRUnity/README.html.meta
