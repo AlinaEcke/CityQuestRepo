@@ -235,6 +235,10 @@ Prefab:
       propertyPath: nextLocationMarker
       value: 
       objectReference: {fileID: 1334605682}
+    - target: {fileID: 11415854, guid: 04fc6dc5cecaede4aaeece7190db560a, type: 2}
+      propertyPath: objectToActivate
+      value: 
+      objectReference: {fileID: 1334605682}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 04fc6dc5cecaede4aaeece7190db560a, type: 2}
   m_IsPrefabParent: 0
@@ -724,6 +728,10 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 11415854, guid: 04fc6dc5cecaede4aaeece7190db560a, type: 2}
       propertyPath: nextLocationMarker
+      value: 
+      objectReference: {fileID: 2086033047}
+    - target: {fileID: 11415854, guid: 04fc6dc5cecaede4aaeece7190db560a, type: 2}
+      propertyPath: objectToActivate
       value: 
       objectReference: {fileID: 2086033047}
     m_RemovedComponents: []
@@ -2139,6 +2147,10 @@ Prefab:
       propertyPath: nextLocationMarker
       value: 
       objectReference: {fileID: 650670494}
+    - target: {fileID: 11415854, guid: 04fc6dc5cecaede4aaeece7190db560a, type: 2}
+      propertyPath: objectToActivate
+      value: 
+      objectReference: {fileID: 650670494}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 04fc6dc5cecaede4aaeece7190db560a, type: 2}
   m_IsPrefabParent: 0
@@ -2250,6 +2262,10 @@ Prefab:
       propertyPath: nextLocationMarker
       value: 
       objectReference: {fileID: 1402192599}
+    - target: {fileID: 11415854, guid: 04fc6dc5cecaede4aaeece7190db560a, type: 2}
+      propertyPath: objectToActivate
+      value: 
+      objectReference: {fileID: 1402192599}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 04fc6dc5cecaede4aaeece7190db560a, type: 2}
   m_IsPrefabParent: 0
@@ -2306,6 +2322,10 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 11415854, guid: 04fc6dc5cecaede4aaeece7190db560a, type: 2}
       propertyPath: nextLocationMarker
+      value: 
+      objectReference: {fileID: 619508608}
+    - target: {fileID: 11415854, guid: 04fc6dc5cecaede4aaeece7190db560a, type: 2}
+      propertyPath: objectToActivate
       value: 
       objectReference: {fileID: 619508608}
     m_RemovedComponents: []
@@ -3598,6 +3618,10 @@ Prefab:
       propertyPath: nextLocationMarker
       value: 
       objectReference: {fileID: 1290308893}
+    - target: {fileID: 11415854, guid: 04fc6dc5cecaede4aaeece7190db560a, type: 2}
+      propertyPath: objectToActivate
+      value: 
+      objectReference: {fileID: 1290308893}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 04fc6dc5cecaede4aaeece7190db560a, type: 2}
   m_IsPrefabParent: 0
@@ -4055,6 +4079,10 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 11415854, guid: 04fc6dc5cecaede4aaeece7190db560a, type: 2}
       propertyPath: nextLocationMarker
+      value: 
+      objectReference: {fileID: 18899750}
+    - target: {fileID: 11415854, guid: 04fc6dc5cecaede4aaeece7190db560a, type: 2}
+      propertyPath: objectToActivate
       value: 
       objectReference: {fileID: 18899750}
     m_RemovedComponents: []
@@ -5960,6 +5988,10 @@ Prefab:
       propertyPath: nextLocationMarker
       value: 
       objectReference: {fileID: 1642812062}
+    - target: {fileID: 11415854, guid: 04fc6dc5cecaede4aaeece7190db560a, type: 2}
+      propertyPath: objectToActivate
+      value: 
+      objectReference: {fileID: 1642812062}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 04fc6dc5cecaede4aaeece7190db560a, type: 2}
   m_IsPrefabParent: 0
@@ -6267,6 +6299,10 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 11415854, guid: 04fc6dc5cecaede4aaeece7190db560a, type: 2}
       propertyPath: nextLocationMarker
+      value: 
+      objectReference: {fileID: 172963535}
+    - target: {fileID: 11415854, guid: 04fc6dc5cecaede4aaeece7190db560a, type: 2}
+      propertyPath: objectToActivate
       value: 
       objectReference: {fileID: 172963535}
     m_RemovedComponents: []
@@ -8218,6 +8254,10 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 11415854, guid: 04fc6dc5cecaede4aaeece7190db560a, type: 2}
       propertyPath: nextLocationMarker
+      value: 
+      objectReference: {fileID: 1071789417}
+    - target: {fileID: 11415854, guid: 04fc6dc5cecaede4aaeece7190db560a, type: 2}
+      propertyPath: objectToActivate
       value: 
       objectReference: {fileID: 1071789417}
     m_RemovedComponents: []
