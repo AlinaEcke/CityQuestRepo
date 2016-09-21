@@ -58,3 +58,4 @@ ControllerCityQuest/Assets/OSVRUnity/CONTRIBUTING.html.meta
 ControllerCityQuest/Assets/OSVRUnity/README.html.meta
 *.suo
 *.cache
+*.pdb
