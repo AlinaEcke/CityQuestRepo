@@ -53,8 +53,8 @@ public class Controller : MonoBehaviour {
 
     private void UpdateAnimationState(float horizontalInput, float verticalInput)
     {
-        GameObject max = transform.Find("MAX").gameObject;
-        Animator maxAnimator = max.GetComponent<Animator>();
+        //GameObject max = transform.Find("MAX").gameObject;
+        Animator maxAnimator = gameObject.GetComponent<Animator>();
         
         maxAnimator.SetFloat("Forward", verticalInput);
     }

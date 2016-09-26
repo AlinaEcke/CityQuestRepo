@@ -23,7 +23,7 @@ public class LocationMarker : MonoBehaviour {
 
     void OnTriggerEnter(Collider other)
     {
-        if (other.gameObject.name.Equals("playerAvatar"))
+        if (other.gameObject.name.Equals("MAX"))
         {
             fadingOut = true;
             if (objectToActivate != null)
