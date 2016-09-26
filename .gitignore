@@ -60,3 +60,4 @@ ControllerCityQuest/Assets/OSVRUnity/README.html.meta
 *.cache
 *.pdb
 *.suo
+.vs
