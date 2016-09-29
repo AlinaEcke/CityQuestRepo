@@ -6,12 +6,13 @@ public class LocationMarker : MonoBehaviour {
     private bool fadingOut = false;
     public float fadeSpeed;
 
+
     public GameObject objectToActivate;
 
     // Use this for initialization
     void Start () {
-	
-	}
+
+    }
 	
 	// Update is called once per frame
 	void Update () {
@@ -26,12 +27,17 @@ public class LocationMarker : MonoBehaviour {
         if (other.gameObject.name.Equals("MAX"))
         {
             fadingOut = true;
+            AudioSource audio = GetComponent<AudioSource>();
+            audio.Play();
+            audio.Play(44100);
+
             if (objectToActivate != null)
             {
                 objectToActivate.SetActive(true);
             }
         }
     }
+
 
     private void FadeOut()
     {
