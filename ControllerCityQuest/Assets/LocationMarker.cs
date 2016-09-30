@@ -27,9 +27,6 @@ public class LocationMarker : MonoBehaviour {
         if (other.gameObject.name.Equals("MAX"))
         {
             fadingOut = true;
-            AudioSource audio = GetComponent<AudioSource>();
-            audio.Play();
-            audio.Play(44100);
 
             if (objectToActivate != null)
             {
