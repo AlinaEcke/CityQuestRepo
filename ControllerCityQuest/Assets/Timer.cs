@@ -10,7 +10,7 @@ public class Timer : MonoBehaviour {
 
 void OnTriggerEnter(Collider other) {
 
-        if (other.gameObject.name.Equals("playerAvatar")) {
+        if (other.gameObject.name.Equals("MAX")) {
             saveTimeToFile();
         }
 }
